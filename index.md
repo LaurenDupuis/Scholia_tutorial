@@ -2,10 +2,13 @@
 <script type="application/ld+json">
   {
     "@context":"http://schema.org/",
-    "@type":"CreativeWork",
+    "@type":"TrainingMaterial",
+    "description": "Tutorial on how to annotate literature with keywords, allowing building literature lists in Scholia.",
+    "author": "Lauren Dupuis",
     "name":"Use Scholia and Wikidata to find scientific literature",
     "keywords":"Scholia, literature", 
-    "url":"https://laurendupuis.github.io/Scholia_tutorial/"
+    "url":"https://laurendupuis.github.io/Scholia_tutorial/",
+    "image": "https://laurendupuis.github.io/Scholia_tutorial/Images/Scholia_5.PNG"
   }
 </script>
 
